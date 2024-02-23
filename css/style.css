@@ -1,6 +1,6 @@
 body{
     margin : 0;
-    background-image: url("D:/javascript-prac/proj3-cp(beat-box)/assets/background.jpeg");
+    background-image: url("./assets/background.jpeg");
     background-repeat: no-repeat;
     object-fit: cover;
     background-color: rgb(44, 125, 196);
